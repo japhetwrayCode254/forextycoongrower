@@ -1,0 +1,27 @@
+.middle_signal{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.t_signal{
+    margin-top: 20px;
+}
+.t_signal span{
+    font-size: large;
+    color: rgb(230, 64, 64);
+}
+/* .table{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+} */
+.table{
+    
+    margin-left: 30px;
+    margin-right: 30px;
+}
+td p{
+    color: black;
+}
